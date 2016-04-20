@@ -1,1 +1,3 @@
-I added some text.
+Here is some more text.
+
+Also, I removed the original text.
